@@ -1,0 +1,16 @@
+{
+  "name": "Star TV",
+  "version": "1.0.0",
+  "parameter": "menu:main",
+  "menu": {
+    "main": {
+      "items": [
+        {
+          "title": "OPEN ATODO",
+          "action": "link",
+          "url": "https://msx.benzac.de/?start=menu:request:interaction:menu@https://atodo.fun/fun.html"
+        }
+      ]
+    }
+  }
+}
